@@ -1,1 +1,1 @@
-# ajs-homeworks-modules
+# Домашние задания по модулю "Продвинутый JavaScript"
